@@ -1,0 +1,7 @@
+Resources folder is used as a source folder so it can be included during the compiling phase.
+
+
+used loadState and unloadState to save some space for the audio because audio files sometimes can be huge and i will require some waiting time
+
+
+https://www.piskelapp.com for creating the sprites
